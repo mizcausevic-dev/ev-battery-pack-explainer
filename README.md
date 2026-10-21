@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/ev-battery-pack-explainer/
 
+Repository: https://github.com/mizcausevic-dev/ev-battery-pack-explainer
+
 ## What this is
 
 An interactive anatomy plate for EV Battery Pack. Play, scrub, or jump the five stages. The same frame always draws the same picture.
